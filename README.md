@@ -1,7 +1,7 @@
 # node-course-notes-app
 
 
-Simple command line notes app, playing with node and api
+Simple command line notes app, playing with node.js and apis
 
 chalk
 
